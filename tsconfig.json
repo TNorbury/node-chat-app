@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "target": "ES2019",
+        // "allowJs": true,
+        // "checkJs": true,
+        "allowSyntheticDefaultImports": true,
+    },
+    "typeAcquisition": {
+        "enable": true
+    }
+}
